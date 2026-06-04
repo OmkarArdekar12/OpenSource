@@ -2,8 +2,9 @@
 
 <!-- <img src="https://gssoc.girlscript.org/profile/e56a5d37-c516-4835-a09d-05d0ab929d89/card" width="100%"/> -->
 
-[![GSSoC Profile](https://img.shields.io/badge/GSSoC2026-Contributor-FFA012?style=for-the-badge&logo=googlesummerofcode)](https://gssoc.girlscript.org/profile/e56a5d37-c516-4835-a09d-05d0ab929d89)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-FFA012?style=for-the-badge&logo=github)](https://github.com/OmkarArdekar12)
 [![GSSoC Profile](https://img.shields.io/badge/GSSoC-Profile-FFA012?style=for-the-badge&logo=googlesummerofcode)](https://gssoc.girlscript.org/profile/e56a5d37-c516-4835-a09d-05d0ab929d89)
+[![GSSoC Contributor](https://img.shields.io/badge/GSSoC2026-Contributor-FFA012?style=for-the-badge&logo=googlesummerofcode)](https://gssoc.girlscript.org/profile/e56a5d37-c516-4835-a09d-05d0ab929d89)
 
 This document tracks my contributions during GSSoC 2026, including issues raised, pull requests submitted, and their impact on the project.
 
@@ -21,9 +22,9 @@ This document tracks my contributions during GSSoC 2026, including issues raised
 
 ## Repositories Contributed To
 
-| Repository  | Tech Stack                               | PRs | Issues | Repository Link                                    |
-| ----------- | ---------------------------------------- | --- | ------ | -------------------------------------------------- |
-| commitpulse | Next.js, TypeScript, TailwindCSS, Nodejs | 3   | 3      | [Link](https://github.com/JhaSourav07/commitpulse) |
+| Repository  | Tech Stack                                | PRs | Issues | Repository Link                                    |
+| ----------- | ----------------------------------------- | --- | ------ | -------------------------------------------------- |
+| commitpulse | Next.js, TypeScript, TailwindCSS, Node.js | 3   | 3      | [Link](https://github.com/JhaSourav07/commitpulse) |
 
 ---
 
@@ -37,11 +38,11 @@ This document tracks my contributions during GSSoC 2026, including issues raised
 
 ## Issues
 
-| Issue | Repository  | Description                                           | Status | Link                                                           |
-| ----- | ----------- | ----------------------------------------------------- | ------ | -------------------------------------------------------------- |
-| #3495 | commitpulse | Add Interactive GitHub Profile README Generator       | Closed | [Link](https://github.com/JhaSourav07/commitpulse/issues/3495) |
-| #2153 | commitpulse | Missing Footer in Compare Section                     | Closed | [Link](https://github.com/JhaSourav07/commitpulse/issues/2153) |
-| #889  | commitpulse | Change Theme Button Missing at the small screen size. | Closed | [Link](https://github.com/JhaSourav07/commitpulse/issues/889)  |
+| Issue | Repository  | Description                                       | Status | Link                                                           |
+| ----- | ----------- | ------------------------------------------------- | ------ | -------------------------------------------------------------- |
+| #3495 | commitpulse | Add Interactive GitHub Profile README Generator   | Closed | [Link](https://github.com/JhaSourav07/commitpulse/issues/3495) |
+| #2153 | commitpulse | Missing Footer in Compare Section                 | Closed | [Link](https://github.com/JhaSourav07/commitpulse/issues/2153) |
+| #889  | commitpulse | Theme toggle button missing on small screen sizes | Closed | [Link](https://github.com/JhaSourav07/commitpulse/issues/889)  |
 
 ---
 
