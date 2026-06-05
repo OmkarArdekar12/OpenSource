@@ -12,10 +12,10 @@ This document tracks my contributions during GSSoC 2026, including issues raised
 
 | Metric                   | Count |
 | ------------------------ | ----- |
-| Pull Requests Opened     | 3     |
-| Pull Requests Merged     | 3     |
-| Issues Created           | 3     |
-| Issues Resolved          | 3     |
+| Pull Requests Opened     | 5     |
+| Pull Requests Merged     | 5     |
+| Issues Created           | 5     |
+| Issues Resolved          | 5     |
 | Repositories Contributed | 1     |
 
 ---
@@ -35,19 +35,23 @@ This document tracks my contributions during GSSoC 2026, including issues raised
 
 ## Pull Requests
 
-| PR    | Repository  | Category | Description                                                             | Status | Link                                                         | Impact                                                                                                                          | Files Changed | + Lines | - Lines |
-| ----- | ----------- | -------- | ----------------------------------------------------------------------- | ------ | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------- | ------- |
-| #3505 | commitpulse | Feature  | feat(readme-generator): add interactive GitHub profile README generator | Merged | [Link](https://github.com/JhaSourav07/commitpulse/pull/3505) | Enabled users to create GitHub profile READMEs through an interactive UI, improving usability and reducing manual setup effort. | 14            | +3,222  | 0       |
-| #2157 | commitpulse | Bug Fix  | fix(compare): show missing footer section                               | Merged | [Link](https://github.com/JhaSourav07/commitpulse/pull/2157) | Restored missing footer content on the comparison page, improving page completeness and user navigation.                        | 1             | +15     | -9      |
-| #918  | commitpulse | Bug Fix  | fix(navbar): show theme toggle on mobile screens                        | Merged | [Link](https://github.com/JhaSourav07/commitpulse/pull/918)  | Improved mobile user experience by ensuring theme switching functionality is accessible on smaller devices.                     | 1             | +30     | -9      |
+| PR    | Repository  | Category | Description                                                             | Status | Link                                                         | Impact                                                                                                                                                                                                                                                                                                                                                                                   | Files Changed | + Lines | - Lines |
+| ----- | ----------- | -------- | ----------------------------------------------------------------------- | ------ | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------- | ------- |
+| #3505 | commitpulse | Feature  | feat(readme-generator): add interactive GitHub profile README generator | Merged | [Link](https://github.com/JhaSourav07/commitpulse/pull/3505) | Introduced a comprehensive **GitHub Profile README Generator** that enables users to create professional READMEs through an interactive interface, featuring **real-time markdown preview**, **200+ technology badges**, **50+ social platform integrations**, **automatic markdown generation**, **one-click copy/download functionality**, and a **fully responsive user experience**. | 14            | +3,222  | 0       |
+| #3971 | commitpulse | Bug Fix  | fix(ui): prevent markdown panel overflow for long unbroken text         | Merged | [Link](https://github.com/JhaSourav07/commitpulse/pull/3971) | Prevented horizontal overflow in the README Generator markdown panel, ensuring long URLs, badges, and unbroken text render correctly without breaking the layout.                                                                                                                                                                                                                        | 1             | +7      | -1      |
+| #3943 | commitpulse | Bug Fix  | fix(ui): improve navbar responsiveness and fix footer navigation        | Merged | [Link](https://github.com/JhaSourav07/commitpulse/pull/3943) | Enhanced responsive behavior of the navbar and restored footer navigation functionality, improving overall site accessibility and user navigation.                                                                                                                                                                                                                                       | 2             | +6      | -1      |
+| #2157 | commitpulse | Bug Fix  | fix(compare): show missing footer section                               | Merged | [Link](https://github.com/JhaSourav07/commitpulse/pull/2157) | Restored missing footer content on the comparison page, improving page completeness and user navigation.                                                                                                                                                                                                                                                                                 | 1             | +15     | -9      |
+| #918  | commitpulse | Bug Fix  | fix(navbar): show theme toggle on mobile screens                        | Merged | [Link](https://github.com/JhaSourav07/commitpulse/pull/918)  | Improved mobile user experience by ensuring theme switching functionality is accessible on smaller devices.                                                                                                                                                                                                                                                                              | 1             | +30     | -9      |
 
 ## Issues
 
-| Issue | Repository  | Description                                       | Status | Link                                                           |
-| ----- | ----------- | ------------------------------------------------- | ------ | -------------------------------------------------------------- |
-| #3495 | commitpulse | Add Interactive GitHub Profile README Generator   | Closed | [Link](https://github.com/JhaSourav07/commitpulse/issues/3495) |
-| #2153 | commitpulse | Missing Footer in Compare Section                 | Closed | [Link](https://github.com/JhaSourav07/commitpulse/issues/2153) |
-| #889  | commitpulse | Theme toggle button missing on small screen sizes | Closed | [Link](https://github.com/JhaSourav07/commitpulse/issues/889)  |
+| Issue | Repository  | Description                                               | Status | Link                                                           |
+| ----- | ----------- | --------------------------------------------------------- | ------ | -------------------------------------------------------------- |
+| #3495 | commitpulse | Feature: Add Interactive GitHub Profile README Generator  | Closed | [Link](https://github.com/JhaSourav07/commitpulse/issues/3495) |
+| #3959 | commitpulse | Bug: README generator markdown panel overflow             | Closed | [Link](https://github.com/JhaSourav07/commitpulse/issues/3959) |
+| #3906 | commitpulse | Bug: Improved Navbar Responsiveness and Footer Navigation | Closed | [Link](https://github.com/JhaSourav07/commitpulse/issues/3906) |
+| #2153 | commitpulse | Bug: Missing Footer in Compare Section                    | Closed | [Link](https://github.com/JhaSourav07/commitpulse/issues/2153) |
+| #889  | commitpulse | Bug: Theme toggle button missing on small screen sizes    | Closed | [Link](https://github.com/JhaSourav07/commitpulse/issues/889)  |
 
 ---
 
