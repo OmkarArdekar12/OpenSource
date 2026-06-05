@@ -22,9 +22,14 @@ This document tracks my contributions during GSSoC 2026, including issues raised
 
 ## Repositories Contributed To
 
-| Repository  | Tech Stack                                | PRs | Issues | Repository Link                                    |
-| ----------- | ----------------------------------------- | --- | ------ | -------------------------------------------------- |
-| commitpulse | Next.js, TypeScript, TailwindCSS, Node.js | 3   | 3      | [Link](https://github.com/JhaSourav07/commitpulse) |
+| Repository  | Tech Stack                                | PRs | Issues | Repository Link                                    | About                                                                                                                                                                                                                                                                                                                                           |
+| ----------- | ----------------------------------------- | --- | ------ | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| commitpulse | Next.js, TypeScript, TailwindCSS, Node.js | 3   | 3      | [Link](https://github.com/JhaSourav07/commitpulse) | A high-performance Next.js API that transforms raw GitHub contribution data into premium, 3D isometric monoliths. Featuring real-time GraphQL syncing, custom SVG filters, and deep theme customization. ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=OmkarArdekar12&accent=FFA012&text=FFFFFF&font=Inter&year=2025&radius=19) |
+
+<!-- <div align="center">
+<img src="https://commitpulse.vercel.app/api/streak?user=OmkarArdekar12&accent=FFA012&text=FFFFFF&font=Inter&year=2025&radius=19" alt="CommitPulse Contribution Graph for OmkarArdekar12" width="49%"/>
+<img src="https://commitpulse.vercel.app/api/streak?user=OmkarArdekar12&accent=FFA012&text=FFFFFF&scale=log&font=Inter&year=2025&radius=19" alt="CommitPulse Contribution Graph for OmkarArdekar12" width="49%"/>
+</div> -->
 
 ---
 
