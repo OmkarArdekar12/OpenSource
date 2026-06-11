@@ -14,9 +14,9 @@ This repository serves as a centralized archive of my open-source contributions.
 
 ## Open Source Programs
 
-| Program | Year | Details                       |
-| ------- | ---- | ----------------------------- |
-| GSSoC   | 2026 | [View Contributions](./GSSoC) |
+| Program | Year | Details                                 |
+| ------- | ---- | --------------------------------------- |
+| GSSoC   | 2026 | [View Contributions](./GSSoC/README.md) |
 
 ---
 
