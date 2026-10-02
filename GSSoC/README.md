@@ -1,12 +1,18 @@
 # GSSoC 2026 Contributions
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFA012?style=for-the-badge&logo=codementor)](https://omkarardekar.vercel.app)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-FFA012?style=for-the-badge&logo=github)](https://github.com/OmkarArdekar12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFA012?style=for-the-badge&logo=devbox)](https://www.linkedin.com/in/omkarardekar09)
+
+<br/>
+
 <!-- <img src="https://gssoc.girlscript.org/profile/e56a5d37-c516-4835-a09d-05d0ab929d89/card" width="100%"/> -->
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-FFA012?style=for-the-badge&logo=github)](https://github.com/OmkarArdekar12)
 [![GSSoC Contributor Profile](https://img.shields.io/badge/GSSoC-Contributor%20Profile-FFA012?style=for-the-badge&logo=googlesummerofcode)](https://gssoc.girlscript.org/profile/e56a5d37-c516-4835-a09d-05d0ab929d89)
 [![GSSoC 2026 Certificate](https://img.shields.io/badge/GSSoC%202026-Certificate-FFA012?style=for-the-badge&logo=googlesummerofcode)](https://omkar-projects.vercel.app/certificates/GSSoC-2026-Certificate.pdf)
 
-This document tracks my contributions during GSSoC 2026, including issues raised, pull requests submitted, and their impact on the project.
+> A curated record of my contributions during GSSoC 2026, including issues raised, pull requests submitted, and their impact on the project.
 
 ## Overview
 
