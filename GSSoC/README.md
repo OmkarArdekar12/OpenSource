@@ -20,6 +20,14 @@ This document tracks my contributions during GSSoC 2026, including issues raised
 
 ---
 
+## Certificates
+
+| Program                               | Year | Certificate                                      |
+| :------------------------------------ | :--: | :----------------------------------------------- |
+| **GirlScript Summer of Code (GSSoC)** | 2026 | [View Certificate](./GSSoC-2026-Certificate.pdf) |
+
+---
+
 ## Repositories Contributed To
 
 | Repository  | Tech Stack                                | PRs | Issues | Repository Link                                    | Live Link                               | About                                                                                                                                                                                                                                                                                                                                           |
