@@ -36,14 +36,91 @@
 
 ## Repositories Contributed To
 
-| Repository  | Tech Stack                                | PRs | Issues | Repository Link                                    | Live Link                               | About                                                                                                                                                                                                                                                                                                                                           |
-| ----------- | ----------------------------------------- | --- | ------ | -------------------------------------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| CommitPulse | Next.js, TypeScript, TailwindCSS, Node.js | 3   | 3      | [Link](https://github.com/JhaSourav07/commitpulse) | [Live](https://commitpulse.vercel.app/) | A high-performance Next.js API that transforms raw GitHub contribution data into premium, 3D isometric monoliths. Featuring real-time GraphQL syncing, custom SVG filters, and deep theme customization. ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=OmkarArdekar12&accent=FFA012&text=FFFFFF&font=Inter&year=2025&radius=19) |
+| Repository  | Tech Stack                                | PRs | Issues | Repository Link                                       | Live Link                               | About                                                                                                                                                                                                                                                                                                                                           |
+| ----------- | ----------------------------------------- | --- | ------ | ----------------------------------------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CommitPulse | Next.js, TypeScript, TailwindCSS, Node.js | 10  | 10     | [Link](https://github.com/OmkarArdekar12/commitpulse) | [Live](https://commitpulse.vercel.app/) | A high-performance Next.js API that transforms raw GitHub contribution data into premium, 3D isometric monoliths. Featuring real-time GraphQL syncing, custom SVG filters, and deep theme customization. ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=OmkarArdekar12&accent=FFA012&text=FFFFFF&font=Inter&year=2025&radius=19) |
 
 <!-- <div align="center">
 <img src="https://commitpulse.vercel.app/api/streak?user=OmkarArdekar12&accent=FFA012&text=FFFFFF&font=Inter&year=2025&radius=19" alt="CommitPulse Contribution Graph for OmkarArdekar12" width="49%"/>
 <img src="https://commitpulse.vercel.app/api/streak?user=OmkarArdekar12&accent=FFA012&text=FFFFFF&scale=log&font=Inter&year=2025&radius=19" alt="CommitPulse Contribution Graph for OmkarArdekar12" width="49%"/>
 </div> -->
+
+---
+
+## Pull Requests
+
+| PR    | Repository  | Category | Description                                                                                                                            | Status | Impact                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Files Changed | + Lines | - Lines |
+| ----- | ----------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ------- | ------- |
+| #3505 | CommitPulse | Feature  | feat(readme-generator): add interactive GitHub profile README generator                                                                | Merged | Introduced a comprehensive **GitHub Profile README Generator** that enables users to create professional READMEs through an interactive interface, featuring **real-time markdown preview**, **200+ technology badges**, **50+ social platform integrations**, **automatic markdown generation**, **one-click copy/download functionality**, and a **fully responsive user experience**. [**Live Demo**](https://commitpulse.vercel.app/generator)                                                                                                                                                                                                                                                          | 14            | +3,222  | 0       |
+| #4129 | CommitPulse | Feature  | feat(generator): add CommitPulse Stats integration to GitHub Profile README Generator                                                  | Merged | Added a dedicated **CommitPulse 3D Isometric Monolith Stats** section to the GitHub Profile README Generator, featuring **GitHub username verification**, **live 3D contribution badge preview**, **accent color customization**, **dashboard integration**, **streak and contribution statistics**, **automatic README markdown generation**, and enhanced UI/UX for a seamless profile creation experience. [**Live Demo**](https://commitpulse.vercel.app/generator)                                                                                                                                                                                                                                     | 8             | +462    | -4      |
+| #8598 | CommitPulse | Feature  | feat(technologies): add customizable tech stack display modes with badges                                                              | Merged | Introduced a **configurable Tech Stack display system** for the GitHub Profile README Generator, enabling users to switch between **Logo Only (devicon SVG / simpleicons CDN image)** and **Logo + Name (shields.io badges)** display modes. Added **custom badge background and logo color customization**, **live preview synchronization**, and **automatic README generation** with the selected style. Also improved the editor experience by enhancing badge spacing and surfacing technology recommendations above the search bar, resulting in a more readable, customizable, and professional GitHub profile README creation experience. [**Live Demo**](https://commitpulse.vercel.app/generator) | 7             | +324    | -90     |
+| #5062 | CommitPulse | Feature  | feat(intelligent-recommendation-generator-system): implement intelligent technology recommendation system for profile README generator | Merged | Implemented a scalable **graph-based technology recommendation engine** for the GitHub Profile README Generator. Added **dynamic dependency graph generation**, **curated ecosystem mappings**, **category-to-category recommendations**, **same-category alternatives**, **language-family relationships**, **multi-source score aggregation**, **recommendation strength classification**, and **explainable recommendation reasons**. Expanded recommendation coverage across the entire technology catalog and added automated test coverage for aggregation, filtering, sorting, and reason deduplication. [**Live Demo**](https://commitpulse.vercel.app/generator)                                   | 2             | +838    | -554    |
+| #5544 | CommitPulse | Bug Fix  | fix(generator): restore intelligent technology badge recommendations                                                                   | Merged | Restored the Intelligent Technology Badge Recommendation feature in the GitHub Profile README Generator.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 2             | +191    | -18     |
+| #3971 | CommitPulse | Bug Fix  | fix(ui): prevent markdown panel overflow for long unbroken text                                                                        | Merged | Prevented horizontal overflow in the README Generator markdown panel, ensuring long URLs, badges, and unbroken text render correctly without breaking the layout.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 1             | +7      | -1      |
+| #8592 | CommitPulse | Bug Fix  | fix(navbar): enhance navbar responsiveness below 1100px                                                                                | Merged | Enhanced navbar responsiveness by aligning CSS and JavaScript breakpoints at 1100px, eliminating overflow issues and ensuring proper alignment of navigation controls on smaller screens.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 5             | +15     | -11     |
+| #3943 | CommitPulse | Bug Fix  | fix(ui): improve navbar responsiveness and fix footer navigation                                                                       | Merged | Enhanced responsive behavior of the navbar and restored footer navigation functionality, improving overall site accessibility and user navigation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 2             | +6      | -1      |
+| #2157 | CommitPulse | Bug Fix  | fix(compare): show missing footer section                                                                                              | Merged | Restored missing footer content on the comparison page, improving page completeness and user navigation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 1             | +15     | -9      |
+| #918  | CommitPulse | Bug Fix  | fix(navbar): show theme toggle on mobile screens                                                                                       | Merged | Improved mobile user experience by ensuring theme switching functionality is accessible on smaller devices.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 1             | +30     | -9      |
+
+## Issues
+
+| Issue | Repository  | Description                                                                                                                 | Status |
+| ----- | ----------- | --------------------------------------------------------------------------------------------------------------------------- | ------ |
+| #3495 | CommitPulse | Feature: Add Interactive GitHub Profile README Generator                                                                    | Closed |
+| #4116 | CommitPulse | Feature: Add CommitPulse Stats Integration to GitHub Profile README Generator                                               | Closed |
+| #8595 | CommitPulse | Feature: Add toggle to display Tech Stack Icons as Logo-Only or Logo + Name (shields.io) and customizable modes with badges | Closed |
+| #5053 | CommitPulse | Feature: Implement Intelligent Technology Recommendation System for All Technologies in profile README generator            | Closed |
+| #5518 | CommitPulse | Bug: Technology Badge Recommendations Missing & Contribution Visualization Issues                                           | Closed |
+| #3959 | CommitPulse | Bug: README generator markdown panel overflow                                                                               | Closed |
+| #8590 | CommitPulse | Bug: Navbar is not responsive on smaller screen widths causing UI overflow                                                  | Closed |
+| #3906 | CommitPulse | Bug: Improved Navbar Responsiveness and Footer Navigation                                                                   | Closed |
+| #2153 | CommitPulse | Bug: Missing Footer in Compare Section                                                                                      | Closed |
+| #889  | CommitPulse | Bug: Theme toggle button missing on small screen sizes                                                                      | Closed |
+
+---
+
+---
+
+<!--
+# GSSoC 2026 Contributions
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFA012?style=for-the-badge&logo=codementor)](https://omkarardekar.vercel.app)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-FFA012?style=for-the-badge&logo=github)](https://github.com/OmkarArdekar12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFA012?style=for-the-badge&logo=devbox)](https://www.linkedin.com/in/omkarardekar09)
+
+<br/>
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-FFA012?style=for-the-badge&logo=github)](https://github.com/OmkarArdekar12)
+[![GSSoC Contributor Profile](https://img.shields.io/badge/GSSoC-Contributor%20Profile-FFA012?style=for-the-badge&logo=googlesummerofcode)](https://gssoc.girlscript.org/profile/e56a5d37-c516-4835-a09d-05d0ab929d89)
+[![GSSoC 2026 Certificate](https://img.shields.io/badge/GSSoC%202026-Certificate-FFA012?style=for-the-badge&logo=googlesummerofcode)](https://omkar-projects.vercel.app/certificates/GSSoC-2026-Certificate.pdf)
+
+> A curated record of my contributions during GSSoC 2026, including issues raised, pull requests submitted, and their impact on the project.
+
+## Overview
+
+| Metric                   | Count |
+| ------------------------ | ----- |
+| Pull Requests Opened     | 10    |
+| Pull Requests Merged     | 10    |
+| Issues Created           | 10    |
+| Issues Resolved          | 10    |
+| Repositories Contributed | 1     |
+
+---
+
+## Certificates
+
+| Program                               | Year | Certificate                                      |
+| :------------------------------------ | :--: | :----------------------------------------------- |
+| **GirlScript Summer of Code (GSSoC)** | 2026 | [View Certificate](./GSSoC-2026-Certificate.pdf) |
+
+---
+
+## Repositories Contributed To
+
+| Repository  | Tech Stack                                | PRs | Issues | Repository Link                                    | Live Link                               | About                                                                                                                                                                                                                                                                                                                                           |
+| ----------- | ----------------------------------------- | --- | ------ | -------------------------------------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CommitPulse | Next.js, TypeScript, TailwindCSS, Node.js | 10   | 10      | [Link](https://github.com/JhaSourav07/commitpulse) | [Live](https://commitpulse.vercel.app/) | A high-performance Next.js API that transforms raw GitHub contribution data into premium, 3D isometric monoliths. Featuring real-time GraphQL syncing, custom SVG filters, and deep theme customization. ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=OmkarArdekar12&accent=FFA012&text=FFFFFF&font=Inter&year=2025&radius=19) |
 
 ---
 
@@ -79,4 +156,4 @@
 
 ---
 
----
+--- -->
